@@ -4,8 +4,8 @@ backend:
 
 publish_mode: editorial_workflow
 
-media_folder: "_site/asset/images"
-public_folder: "_site/asset"
+media_folder: "/src/asset/img"
+public_folder: "/_site/asset"
 
 collections:
   - name: "articles"
