@@ -1,0 +1,32 @@
+---
+layout: 'base.njk'
+---
+
+<body class="bg-gray-100 dark:bg-stone-800">
+
+<!--Judul-->
+<div class="max-w-3xl px-4 lg:px-8 mx-auto pt-5">
+    <time datetime="2020-03-16" class="text-sm text-gray-500 dark:text-white">{{ date | postDate }}</time>
+	<h2 class="font-prsans text-left mt-2 font-bold md:text-5xl text-3xl pb-1 dark:text-white tracking-wide md:leading-tight">{{ title }}</h2>
+	<div class="mx-auto">
+	    <span class="inline-block w-32 h-1 bg-amber-500 rounded-full"></span>
+	</div>
+</div>
+
+<!--Article-->
+<div class="bg-gray-100 dark:bg-stone-800 max-w-3xl px-4 pt-10 lg:pt-10 pb-12 sm:px-6 lg:px-8 mx-auto">
+    <div class="max-w-2xl dark:bg-stone-800">
+
+      <!-- Content -->
+    <article class="space-y-5 md:space-y-8 dark:bg-stone-800 dark:text-white">
+        
+          {{ content | safe }}
+        
+   
+    </article>
+      <!-- End Content -->
+    </div>
+</div>
+<!-- End article -->
+
+</body>
