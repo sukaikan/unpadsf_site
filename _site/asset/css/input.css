@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-@font-face {
-	font-family: 'ProductSans';
-	src: url('../font/productsans-medium-webfont.woff2');
-	     
-}
