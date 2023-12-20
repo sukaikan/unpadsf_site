@@ -11,7 +11,7 @@ Virus panleukopenia kucing adalah penyakit menular yang sangat berbahaya bagi ku
 
 Sayangnya, panleukopenia terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing bermotif putih-hitam yang ditemukan oleh volunteer dalam keadaan mata berair, dan diare pada 4 Desember pagi. Poni kemudian dibawa oleh salah satu dosen Fapsi, Ibu Airin ke salah satu klinik di Bandung. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni hari Kamis sebelumnya dalam keadaan baik-baik saja.
 
-![Poni sakit](/_site/asset/15161.jpg)
+<a href="https://ibb.co/x5g8C63"><img src="https://i.ibb.co/JkpFBHC/15161.jpg" alt="15161" border="0" /></a>
 
 Kematian Poni akibat virus ini adalah kehilangan bagi teman-teman di Fapsi dan Unpad Street Feeding karena sudah dirawat dari kecil.
 
@@ -19,7 +19,7 @@ Seminggu kemudian pada 14 Desember volunteer asal Fapsi, Mettika mendapati salah
 
 Dalam dua pekan terakhir, UnpadSF berfokus ke kegiatan pemantauan terhadap kucing-kucing di lingkungan kampus yang menunjukkan tanda panleukopenia melalui pemeriksaan fisik dan informasi yang diperoleh dari laporan media sosial.
 
-![](/_site/asset/capture.jpg)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/pbkW8HS/Capture.jpg" alt="Capture" border="0" /></a>
 
 Ada kekhawatiran kalau outbreak ini akan menyebar ke fakultas-fakultas lain di area Saintek. UnpadSF mengajak pembaca semua terlibat dalam usaha penggalangan dana untuk melakukan vaksinasi Felocell 4 (F4) yang bisa menangkal virus panleukopenia. Mengingat vaksinasi ini berlomba dengan waktu, selain donasi, UnpadSF akan memakai dana kas sementara untuk melakukan vaksinasi ini. 
 
@@ -29,7 +29,7 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 
 **QRIS Scan**
 
-![](/_site/asset/15162.jpg)
+<a href="https://ibb.co/LZyKgYW"><img src="https://i.ibb.co/P6ykWFn/15162.jpg" alt="15162" border="0" /></a>
 
 <br>
 
