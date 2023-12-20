@@ -1,17 +1,16 @@
 ---
 title: Financial Report Q2 2023
+description: Unpad Street Feeding Animal Friend today announced its Q2 financial
+  report for the year 2023
 date: 2023-07-23
-description: Unpad Street Feeding Animal Friend today announced its Q2 financial report for the year 2023 
-tags: "post"
+tags: post
 ---
-
 # Financial Report Q2 2023
 
 #### Unpad Street Feeding Animal Friend today announced its Q2 financial report for the year 2023.
 
-
 Table containing all the explanation can be found here
-https://gist.github.com/unpadsfresearch/bfe8ebe959dcbc8829b7e638af2dd6eb
+
 
 <script src="https://gist.github.com/unpadsfresearch/bfe8ebe959dcbc8829b7e638af2dd6eb.js"></script>
 
@@ -25,8 +24,8 @@ UnpadSF would like to re-iterate its focus and commitment to the TNR program. As
 
 With our donors’ supports, UnpadSF wish to continue the ongoing TNR Program. UnpadSF is able to declare that the current financial state will enable us to do so.
 
-UnpadSF thanks all the donors for their unwavering support.  
-⠀  
+UnpadSF thanks all the donors for their unwavering support.\
+⠀\
 ⠀
 
 Unpad Street Feeding Communications,
