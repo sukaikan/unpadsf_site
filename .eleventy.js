@@ -3,6 +3,7 @@ const { DateTime } = require("luxon");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./src/style.min.css');
   eleventyConfig.addPassthroughCopy('./src/asset');
+  eleventyConfig.addPassthroughCopy('./src/asset/img');
   eleventyConfig.addPassthroughCopy('./src/admin');
 	
 	eleventyConfig.addCollection("recentPosts", function(collectionApi) {
