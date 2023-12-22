@@ -1,6 +1,6 @@
 ---
 title: Fundraising Vaksin Kucing
-description: Ada outbreak panleu.UnpadSF melakukan disease control dengan vaksinasi
+description: Ada outbreak panleu. UnpadSF melakukan disease control dengan vaksinasi
 date: 2023-12-20T05:18:19.775Z
 tags:
   - post
@@ -15,15 +15,15 @@ Sayangnya, panleukopenia terdeteksi di lingkungan kampus. Korban pertama adalah 
 
 Kematian Poni akibat virus ini adalah kehilangan bagi teman-teman di Fapsi dan Unpad Street Feeding karena sudah dirawat dari kecil.
 
-Seminggu kemudian pada 14 Desember volunteer asal Fapsi, Mettika mendapati salah satu kucing bernama Abon mengalami gejala yang serupa: lesu, nasal discharge disertai sedikit diare. Abon lalu dibawa ke klinik Afiyat oleh volunteer dan diberi obat-obatan yang diperlukan dan saat ini membaik dan dalam pengawasan lebih lanjut. Kucing lain, yaitu Kucu/Sosis saat ini juga sedang dalam pengawasan. Sayangnya ada dua kitten yang menghilang dari tempat mereka biasa berada. 
+Seminggu kemudian pada 14 Desember volunteer asal Fapsi, Mettika mendapati salah satu kucing bernama Abon mengalami gejala yang serupa: lesu, nasal discharge disertai sedikit diare. Abon lalu dibawa ke klinik Afiyat oleh volunteer dan diberi obat-obatan yang diperlukan. Ia saat ini "dibawah kendali" dan dalam pengawasan lebih lanjut. Kucing lain, yaitu Kucu/Sosis dan Tortie (FMIPA) saat ini juga sedang dalam pengawasan. Sayangnya ada dua kitten yang menghilang dari tempat mereka biasa berada.
 
 Dalam dua pekan terakhir, UnpadSF berfokus ke kegiatan pemantauan terhadap kucing-kucing di lingkungan kampus yang menunjukkan tanda panleukopenia melalui pemeriksaan fisik dan informasi yang diperoleh dari laporan media sosial.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/pbkW8HS/Capture.jpg" alt="Capture" border="0" /></a>
 
-Ada kekhawatiran kalau outbreak ini akan menyebar ke fakultas-fakultas lain di area Saintek. UnpadSF mengajak pembaca semua terlibat dalam usaha penggalangan dana untuk melakukan vaksinasi Felocell 4 (F4) yang bisa menangkal virus panleukopenia. Mengingat vaksinasi ini berlomba dengan waktu, selain donasi, UnpadSF akan memakai dana kas sementara untuk melakukan vaksinasi ini. 
+Ada kekhawatiran kalau outbreak ini akan menyebar ke fakultas-fakultas lain di area Saintek jika tidak ditanggulangi. UnpadSF mengajak pembaca semua terlibat dalam penggalangan dana untuk melakukan vaksinasi F4 yang bisa menangkal virus panleukopenia. Mengingat vaksinasi ini berlomba dengan waktu, selain donasi, UnpadSF akan memakai dana kas untuk melakukan vaksinasi ini. Vaksinasi akan dilakukan mulai Sabtu, 23 Desember 2023.
 
-Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. Tidak ada minimal jumlah donasi dan bantuan teman-teman sangat diharapkan. Teman-teman dapat menggunakan Bank atau e-Wallet apapun yang mendukung fitur QRIS. Terima kasih wargi Unpad!
+Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. Tidak ada minimal jumlah donasi dan bantuan teman-teman sangat diharapkan. Teman-teman dapat menggunakan Bank atau e-Wallet apapun yang mendukung fitur QRIS dan tidak perlu melakukan konfirmasi. Terima kasih wargi Unpad!
 
 <br>
 
@@ -33,10 +33,21 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 
 <br>
 
-\--Tabel Transparansi Dana--
+**Tabel Transparansi Dana**
 
 <script src="https://gist.github.com/unpadsfresearch/05264a68f90eb5b8846cc83fb36535dc.js"></script>
 
-Kontak:\
+**Update**\
+22 Desember: Public announcement\
+23-24 Desember: Vaksinasi Tahap 1\
+...\
+...
+
+
+
+<br>
+
+**Kontak:**\
 Instagram: @unpadstreetfeeding\
-UnpadSF captaincy: Shafira ([https://line.me/ti/p/lqlHHk6wKJ)](https://line.me/ti/p/lqlHHk6wKJ)
+mail: unpadsf@duck.com\
+UnpadSF Captaincy: Shafira ([https://line.me/ti/p/lqlHHk6wKJ)](https://line.me/ti/p/lqlHHk6wKJ)
