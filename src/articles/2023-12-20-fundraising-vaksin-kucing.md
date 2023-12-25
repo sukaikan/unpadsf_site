@@ -1,7 +1,7 @@
 ---
 title: Fundraising Vaksin Kucing
 description: Ada outbreak panleu. UnpadSF melakukan disease control dengan vaksinasi
-date: 2023-12-20T05:18:19.775Z
+date: 2023-12-22T05:18:19.775Z
 tags:
   - post
 ---
@@ -38,9 +38,10 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 <script src="https://gist.github.com/unpadsfresearch/05264a68f90eb5b8846cc83fb36535dc.js"></script>
 
 **Update**\
-22 Desember: Public announcement\
-23 Desember: Vaksinasi 2 kucing Fapsi, Abu (Plaza Fapsi) & Abon (Kantin Fapsi)\
-...\
+**22 Desember**: Pengumuman publik\
+**23 Desember**: Vaksinasi 2 kucing Fapsi, Abu (Plaza Fapsi) & Abon (Kantin Fapsi)\
+**24 Desember**: Volunteer medical patrol *\-felice*\
+**25 Desember**: Observasi post-vaccination Abu & Abon.\
 ...
 
 <br>
