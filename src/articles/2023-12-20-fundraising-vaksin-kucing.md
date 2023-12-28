@@ -42,6 +42,9 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 **23 Desember**: Vaksinasi 2 kucing Fapsi, Abu (Plaza Fapsi) & Abon (Kantin Fapsi)\
 **24 Desember**: Volunteer medical patrol *\-felice*\
 **25 Desember**: Observasi post-vaccination Abu & Abon.\
+**27 Desember**: Observasi post-vaccination Abu & Abon: Green\
+**28 Desember**: Follow-up laporan kasus di Faperta: Negative.\
+...\
 ...
 
 <br>
