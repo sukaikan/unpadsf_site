@@ -45,7 +45,7 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 **27 Desember**: Observasi post-vaccination Abu & Abon: Green\
 **28 Desember**: Follow-up laporan kasus di Faperta: Negative.\
 \
-1 Januari: Patrolling\
+**1 Januari**: Patrolling\
 ...
 
 <br>
