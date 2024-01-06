@@ -29,7 +29,7 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 
 **QRIS Scan**
 
-<a href="https://ibb.co/LZyKgYW"><img src="https://i.ibb.co/P6ykWFn/15162.jpg" alt="15162" border="0" /></a>
+Penggalangan dana ditutup
 
 <br>
 
