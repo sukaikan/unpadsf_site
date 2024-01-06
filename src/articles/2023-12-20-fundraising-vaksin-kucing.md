@@ -46,7 +46,7 @@ Penggalangan dana ditutup
 **28 Desember**: Follow-up laporan kasus di Faperta: Negative.\
 \
 **1 Januari**: Patrolling\
-...
+**4 Januari**: Vaksinasi 2 kucing Fapsi-FMIPA-Faperta, Tortie (Kucing betina Fapsi & Kantin Pojok Mipa) dan Cemong (Kucing betina Kimia & Klintan Faperta)
 
 <br>
 
