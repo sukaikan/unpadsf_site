@@ -49,9 +49,11 @@ Penggalangan dana ditutup
 **4 Januari**: Vaksinasi 2 kucing Fapsi-FMIPA-Faperta, Tortie (Kucing betina Fapsi & Kantin Pojok Mipa) dan Cemong (Kucing betina Kimia & Klintan Faperta)\
 **7 Januari**: Observasi post-vaccination Tortie & Cemong. Keduanya dalam keadaan baik dan tidak ada efek adverse. Patroli di wilayah Fakultas Saintek tidak menemukan kucing sakit dengan gejala Panleukopenia.\
 **13 Januari**: Pemeriksaan kesehatan Ateu (Fapsi) & Coco (FMIPA, Mipa Corner) sebelum divaksinasi. Keduanya dalam keadaan sehat.\
-**14 Januari**: Vaksinasi Ateu (Dekanat Fapsi) & Coco (FMIPA, Mipa Corner).
-
-
+**14 Januari**: Vaksinasi Ateu (Dekanat Fapsi) & Coco (FMIPA, Mipa Corner).\
+**16 Januari**: Observasi post-vaccination Ateu & Coco, keduanya dalam keadaan sehat dengan suhu tubuh normal.\
+**18 Januari**: Patrolling Saintek & berdiskusi dengan K3L Unpad.\
+\
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDBBskc/15752.jpg" alt="15752" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'>free upload download</a><br />
 
 <br>
 
