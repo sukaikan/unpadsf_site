@@ -52,6 +52,7 @@ Penggalangan dana ditutup
 **14 Januari**: Vaksinasi Ateu (Dekanat Fapsi) & Coco (FMIPA, Mipa Corner).\
 **16 Januari**: Observasi post-vaccination Ateu & Coco, keduanya dalam keadaan sehat dengan suhu tubuh normal.\
 **18 Januari**: Patrolling Saintek & berdiskusi dengan K3L Unpad.\
+**19 Januari**: Feeding & Observasi wilayah FKEP-FKG pre-vaccination.\
 \
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FDBBskc/15752.jpg" alt="15752" border="0"></a><br /><a target='_blank' href='https://id.imgbb.com/'>free upload download</a><br />
 
