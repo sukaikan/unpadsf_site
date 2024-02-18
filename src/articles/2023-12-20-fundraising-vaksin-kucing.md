@@ -35,7 +35,7 @@ Penggalangan dana ditutup
 
 **Tabel Transparansi Dana**
 
-<script src="https://gist.github.com/unpadsfresearch/05264a68f90eb5b8846cc83fb36535dc.js"></script>
+<iframe width="699" height="314" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=E0E1F4B952AD0DE9%213303&authkey=%21AJ8ZaY1aOAm_G3Q&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE12&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 **Update**\
 **22 Desember**: Pengumuman publik\
@@ -57,10 +57,6 @@ Penggalangan dana ditutup
 **3 Februari**: Volunteer patrol tidak menemukan kucing dengan symptom panleu\
 **12 Februari**: Observasi post-vaccination Ateu (Fapsi), Coco (FMIPA) & Cemong (Kimia-Klintan)\
 **19 Februari:** Volunteer patrol di wilayah Soshum
-
-[<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwlnZUB_R8Ay9jBoWtFthlnb8b7mdggO66gaEJZoCAYnsHI69iBwWalxT45wZwbO52f74gcLMD30Et/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>](<<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwlnZUB_R8Ay9jBoWtFthlnb8b7mdggO66gaEJZoCAYnsHI69iBwWalxT45wZwbO52f74gcLMD30Et/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>>)
-
-
 
 
 
