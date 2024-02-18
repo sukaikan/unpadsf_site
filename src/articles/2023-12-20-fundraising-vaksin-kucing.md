@@ -54,11 +54,16 @@ Penggalangan dana ditutup
 **18 Januari**: Patrolling Saintek & berdiskusi dengan K3L Unpad.\
 **19 Januari**: Feeding & Observasi wilayah FKEP-FKG pre-vaccination.
 
-**3 Februari**: Volunteer patrol results in 0 panleukopenia symptoms\
+**3 Februari**: Volunteer patrol tidak menemukan kucing dengan symptom panleu\
 **12 Februari**: Observasi post-vaccination Ateu (Fapsi), Coco (FMIPA) & Cemong (Kimia-Klintan)\
-\
-\
-\
+**19 Februari:** Volunteer patrol di wilayah Soshum
+
+[<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwlnZUB_R8Ay9jBoWtFthlnb8b7mdggO66gaEJZoCAYnsHI69iBwWalxT45wZwbO52f74gcLMD30Et/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>](<<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwlnZUB_R8Ay9jBoWtFthlnb8b7mdggO66gaEJZoCAYnsHI69iBwWalxT45wZwbO52f74gcLMD30Et/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>>)
+
+
+
+
+
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/FDBBskc/15752.jpg" alt="15752" border="0"></a>
 
 <br>
