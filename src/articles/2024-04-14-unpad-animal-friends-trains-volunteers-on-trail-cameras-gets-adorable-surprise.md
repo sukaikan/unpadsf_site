@@ -1,17 +1,14 @@
 ---
-title: Unpad Animal Friends Trains Volunteers on Trail Cameras, Gets Adorable
-  Surprise!
+title: Unpad Animal Friend Trains Volunteers on Trail Cameras, Gets Adorable Surprise
 description: This week, we took a step forward by introducing our volunteers to
   trail cameras!
-date: 2024-04-12T19:47:00.000Z
+date: 2024-04-13T15:01:00.000Z
 tags:
   - post
 ---
 Here at Unpad Animal Friend, we're always looking for innovative ways to improve our animal welfare efforts. This week, we took a big step forward by introducing our volunteers to the exciting world of trail cameras!
 
 Bushnell E3 Trail camera, owned by one of our Research team, are motion-activated cameras specifically designed for all-weather outdoor use. They're incredibly useful for wildlife observation, allowing us to gather valuable information without disturbing the animals. Yesterday's deployment served two important purposes: training our volunteers on how to use trail cameras effectively, and showcasing the many benefits they offer.
-
-<a href="https://imgcdn.dev/i/WSrlt"><img src="https://s6.imgcdn.dev/WSrlt.md.jpg" alt="WSrlt.md.jpg" border="0"></a>[](<<a href="https://ibb.co/hZvhpDm"><img src="https://i.ibb.co/hZvhpDm/uochedgehogs-11042024-0002.jpg" alt="uochedgehogs-11042024-0002" border="0"></a>>)
 
 On Friday (12/04), a small group of dedicated volunteers gathered for a training session focused on the Bushnell Trophy Cam E3 delivered by Research Unit. Trail cameras, also known as wildlife cameras, are motion-activated cameras specifically designed for outdoor use. These powerful tools allow us to observe animals in their natural habitat without disturbing them. The training session wasn't just about the technical aspects of the camera. Our experienced volunteers shared valuable insights on the many benefits of using trail cameras in animal welfare work. Trail cameras can help us:
 
