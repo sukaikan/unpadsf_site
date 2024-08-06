@@ -30,9 +30,9 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 
 <br>
 
-#### **Objektif**
+#### **Mission Objective**
 
-Objektif dari misi ini adalah meminimalisir dampak dengan melakukan *first aid* dan rescue, serta mencegah dampak panleukopenia virus agar tidak menyebar ke wilayah utara (Faperta) dan barat kampus Universitas Padjadjaran Jatinangor. Berkat dukungan penuh dari satuan pengamanan K3L Unpad, kami telah memperoleh izin untuk menyimpan logistik seperti pet cargo dan peralatan medis lainnya, (termasuk *panleu rapid test kit* ﻿yang sedang dipesan seperti pada gambar di bawah ini) di pos satpam FaPsi dan FMIPA. Strategi ini diperlukan agar kucing yang memiliki gejala Panleukopenia mendapatkan bantuan medis lebih cepat. 
+Tujuan dari misi ini adalah meminimalisir dampak dengan melakukan *first aid* dan rescue, serta mencegah dampak panleukopenia virus agar tidak menyebar ke wilayah utara (Faperta) dan barat kampus Universitas Padjadjaran Jatinangor. Berkat dukungan penuh dari satuan pengamanan K3L Unpad, kami telah memperoleh izin untuk menyimpan logistik seperti pet cargo dan peralatan medis lainnya, (termasuk *panleu rapid test kit* ﻿yang sedang dipesan seperti pada gambar di bawah ini) di pos satpam FaPsi dan FMIPA. Strategi ini diperlukan agar kucing yang memiliki gejala Panleukopenia mendapatkan bantuan medis lebih cepat. 
 
 <a href="https://imgcdn.dev/i/baP2q"><img src="https://s6.imgcdn.dev/baP2q.jpg" alt="Panleu test kit yang sedang dipesan" border="0"></a>
 
