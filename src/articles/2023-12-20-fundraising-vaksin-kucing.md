@@ -81,6 +81,6 @@ Kejadian Ikutan Pasca Imunisasi (KIPI) adalah berbagai efek kesehatan, yang berp
 
 Sisa penggalangan dana program ini akan dialihkan untuk program TNR (Trap-Neuter-Return).
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDBBskc/15752.jpg" alt="15752" border="0"></a>
+<a href="https://imgcdn.dev/i/baTXB"><img src="https://s6.imgcdn.dev/baTXB.jpg" alt="baTXB.jpg" border="0"></a>
 
 <br>[](https://line.me/ti/p/lqlHHk6wKJ)
