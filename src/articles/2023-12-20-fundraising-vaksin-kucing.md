@@ -8,21 +8,33 @@ tags:
 ---
 Yuk, dukung penggalangan dana vaksinasi kucing Unpad untuk melawan kasus outbreak panleukopenia yang sedang terjadi di lingkungan Unpad.
 
-Virus *feline panleukopenia* adalah penyakit menular yang sangat berbahaya bagi kucing. Penyakit ini disebabkan oleh virus parvovirus felin (FPV) yang dapat menyerang sel darah merah, usus, dan sumsum tulang. Gejala-gejala penyakit ini antara lain demam, terdapat nasal discharge, muntah, diare, lemas, dan dehidrasi. Jika tidak segera ditangani, penyakit ini dapat menyebabkan kematian kucing dalam waktu singkat. Virus ini tidak menular ke manusia.
+Virus *feline panleukopenia* adalah penyakit menular yang sangat berbahaya bagi kucing. Penyakit ini disebabkan oleh virus *parvovirus felin* (FPV) yang dapat menyerang sel darah merah, usus, dan sumsum tulang. Gejala-gejala penyakit ini antara lain demam, terdapat nasal discharge, muntah, diare, lemas, dan dehidrasi. Jika tidak segera ditangani, penyakit ini dapat menyebabkan kematian kucing dalam waktu singkat. Virus ini tidak menular ke manusia.
 
-Sayangnya, Feline Panleukopenia terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Poni kemudian dibawa oleh salah satu dosen Fapsi, Ibu Airin ke salah satu klinik di Bandung. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni hari Kamis sebelumnya dalam keadaan baik-baik saja.
+Feline Panleukopenia telah terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Poni kemudian dibawa oleh salah satu dosen Fapsi, Ibu Airin Triwahyuni ke salah satu klinik di Bandung. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni, pada hari Kamis sebelumnya dalam keadaan baik-baik saja.
 
 Kematian Poni akibat virus ini adalah kehilangan bagi teman-teman di Fakultas Psikologi dan Unpad Street Animal Friend karena sudah dirawat dari kecil dan merupakan sahabat bagi warga Fakultas Psikologi.
 
-Seminggu kemudian pada 14 Desember volunteer asal Fapsi, volunteer kami, Mettika Settha kembali mendapati salah satu kucing bernama Abon mengalami gejala yang serupa: lesu, nasal discharge disertai  diare. Abon lalu dibawa volunteer ke klinik Afiyat dan diberi obat-obatan yang diperlukan. Kondisi Abon telah membaik dan dalam pengawasan lebih lanjut untuk recoverynya. Kucing lain, yaitu Kucu/Sosis, calico yang sering ditemui di wilayah Gedung Dekanat, dan Tortie yang sering berkeliaran di antara wilayah FaPsi dan FMIPA saat ini juga sedang dalam pengawasan. Sayangnya ada dua kitten yang menghilang dari tempat mereka biasa berada.
+Seminggu kemudian pada 14 Desember volunteer asal Fapsi, kembali mendapati salah satu kucing bernama Abon mengalami gejala yang serupa: Lesu, *nasal discharge* disertai diare. Abon lalu dibawa volunteer ke klinik Afiyat dan diberi obat-obatan yang diperlukan. Kondisi Abon telah membaik dan dalam pengawasan lebih lanjut untuk recoverynya. Kucing lain, yaitu Kucu/Sosis, calico yang sering ditemui di wilayah Gedung Dekanat, dan Tortie yang sering berkeliaran di antara wilayah FaPsi dan FMIPA saat ini juga sedang dalam pengawasan. Sayangnya ada dua kitten yang menghilang dari tempat mereka biasa berada.
 
-Dalam dua pekan terakhir, Medic & Field volunteer berfokus ke kegiatan pemantauan terhadap kucing-kucing di lingkungan kampus yang menunjukkan tanda panleukopenia melalui pemeriksaan fisik dan informasi yang diperoleh dari laporan media sosial.
+Menurut penuturan salah seorang petugas Satpam Fakultas Psikologi, Poni dan teman-temannya tertular oleh salah satu kucing yang tidak biasa beliau lihat di lingkungan Fapsi. Kucing putih tersebut, kata beliau, sempat bertengkar dengan Poni dan Kucu/Sosis di wilayah gedung Dekanat. Dalam seminggu terakhir, beliau tidak lagi melihat keberadaan kucing tersebut. Pada awalnya, beliau mengira sakit kucing tersebut hanya flu biasa sehingga belum sempat melapor kepada *volunteer* kami di Fapsi.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/pbkW8HS/Capture.jpg" alt="Capture" border="0" /></a>
+Dalam dua pekan terakhir, Medic & Field *volunteer* berfokus ke kegiatan pemantauan terhadap kucing-kucing di lingkungan kampus yang menunjukkan tanda-tanda panleukopenia melalui pemeriksaan fisik dan informasi yang diperoleh dari laporan media sosial.
 
-Ada kekhawatiran kalau outbreak ini akan menyebar ke fakultas-fakultas lain jika tidak ditanggulangi. Unpad Street Animal Friend mengajak pembaca semua untuk terlibat dalam penggalangan dana vaksinasi F4 yang bisa menangkal virus panleukopenia. Mengingat hal ini ini berlomba dengan waktu, selain donasi, kami akan memakai dana kas untuk melakukan vaksinasi ini. Vaksinasi akan dilakukan mulai Sabtu, 23 Desember 2023.
+Ada kekhawatiran kalau outbreak ini akan menyebar ke fakultas-fakultas lain jika tidak ditanggulangi. Unpad Street Animal Friend mengajak pembaca semua untuk mendukung penggalangan dana vaksinasi F4 yang bisa menangkal virus panleukopenia. Vaksinasi akan dilakukan mulai Sabtu, 23 Desember 2023.
 
-Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. Tidak ada minimal jumlah donasi dan bantuan teman-teman sangat diharapkan. Teman-teman dapat menggunakan Bank atau e-Wallet apapun yang mendukung fitur QRIS dan tidak perlu melakukan konfirmasi.
+Daerah Fapsi dan FMIPA adalah salah satu daerah yang pernah menjadi fokus program TNR (Trap-Neuter-Return) pada awal tahun 2023 dan program *kitten adoption* pada tahun 2021 dan 2022. Jumlah populasi kucing yang sedikit serta sudah disteril akan memudahkan program ini serta meminimalisir resiko penularan lebih jauh ke wilayah kampus di bagian utara.
+
+Mengingat kas yang bersumber dari dana pribadi dan donasi tidak memungkinkan bagi kami untuk melakukan vaksinasi sekarang, maka Unpad Street Animal Friend Kami membuka penggalangan dana publik.
+
+Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. Tidak ada minimal jumlah donasi dan bantuan teman-teman sangat kami apresiasi. Teman-teman dapat menggunakan Bank atau *e-Wallet* apapun yang mendukung fitur QRIS dan tidak perlu melakukan konfirmasi.
+
+<br>
+
+#### Objektif
+
+Objektif dari misi ini adalah meminimalisir dampak dengan melakukan *first aid* dan rescue, serta mencegah dampak panleukopenia virus agar tidak menyebar ke wilayah utara (Faperta) dan barat kampus Universitas Padjadjaran Jatinangor. Berkat dukungan penuh dari satuan pengamanan K3L Unpad, kami telah memperoleh izin untuk menyimpan logistik seperti pet cargo dan peralatan medis lainnya, termasuk *panleu rapid test kit*, di pos satpam FaPsi dan FMIPA. Strategi ini diperlukan agar kucing yang memiliki gejala Panleukopenia mendapatkan bantuan medis lebih cepat. 
+
+<a href="https://imgcdn.dev/i/baP2q"><img src="https://s6.imgcdn.dev/baP2q.th.jpg" alt="baP2q.th.jpg" border="0"></a>
 
 <br>
 
@@ -69,6 +81,6 @@ Kejadian Ikutan Pasca Imunisasi (KIPI) adalah berbagai efek kesehatan, yang berp
 
 Sisa penggalangan dana program ini akan dialihkan untuk program TNR (Trap-Neuter-Return).
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/FDBBskc/15752.jpg" alt="15752" border="0"></a>
+<a href="https://imgcdn.dev/i/baTXB"><img src="https://s6.imgcdn.dev/baTXB.jpg" alt="baTXB.jpg" border="0"></a>
 
 <br>[](https://line.me/ti/p/lqlHHk6wKJ)
