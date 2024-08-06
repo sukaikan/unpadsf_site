@@ -1,5 +1,5 @@
 ---
-title: Fundraising Vaksinasi Feline Panleukopenia & Laporan Publik (Updated)
+title: (Final Report) Fundraising Vaksinasi Feline Panleukopenia
 description: Outbreak Feline Panleukopenia Virus terdeteksi di kampus. Unpad
   Street Animal Friend melakukan disease control dengan vaksinasi.
 date: 2023-12-22T05:18:19.775Z
