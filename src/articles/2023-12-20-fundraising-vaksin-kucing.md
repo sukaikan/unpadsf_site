@@ -10,7 +10,7 @@ Yuk, dukung penggalangan dana vaksinasi kucing Unpad untuk melawan kasus outbrea
 
 Virus *feline panleukopenia* adalah penyakit menular yang sangat berbahaya bagi kucing. Penyakit ini disebabkan oleh virus *parvovirus felin* (FPV) yang dapat menyerang sel darah merah, usus, dan sumsum tulang. Gejala-gejala penyakit ini antara lain demam, terdapat nasal discharge, muntah, diare, lemas, dan dehidrasi. Jika tidak segera ditangani, penyakit ini dapat menyebabkan kematian kucing dalam waktu singkat. Virus ini tidak menular ke manusia.
 
-Feline Panleukopenia telah terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Poni kemudian dibawa oleh salah satu dosen Fapsi, Ibu Airin ke salah satu klinik di Bandung. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni, pada hari Kamis sebelumnya dalam keadaan baik-baik saja.
+Feline Panleukopenia telah terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Poni kemudian dibawa oleh salah satu dosen Fapsi, Ibu Airin Triwahyuni ke salah satu klinik di Bandung. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni, pada hari Kamis sebelumnya dalam keadaan baik-baik saja.
 
 Kematian Poni akibat virus ini adalah kehilangan bagi teman-teman di Fakultas Psikologi dan Unpad Street Animal Friend karena sudah dirawat dari kecil dan merupakan sahabat bagi warga Fakultas Psikologi.
 
