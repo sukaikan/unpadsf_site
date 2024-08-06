@@ -24,17 +24,17 @@ Ada kekhawatiran kalau outbreak ini akan menyebar ke fakultas-fakultas lain jika
 
 Daerah Fapsi dan FMIPA adalah salah satu daerah yang pernah menjadi fokus program TNR (Trap-Neuter-Return) pada awal tahun 2023 dan program *kitten adoption* pada tahun 2021 dan 2022. Jumlah populasi kucing yang sedikit serta sudah disteril akan memudahkan program ini serta meminimalisir resiko penularan lebih jauh ke wilayah kampus di bagian utara.
 
-Mengingat kas yang bersumber dari dana pribadi dan donasi tidak memungkinkan bagi kami untuk melakukan vaksinasi sekarang, maka Unpad Street Animal Friend Kami membuka penggalangan dana publik.
+Mengingat kas yang bersumber dari dana pribadi dan donasi tidak memungkinkan bagi kami untuk melakukan vaksinasi sekarang, maka Unpad Street Animal Friend membuka penggalangan dana publik.
 
 Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. Tidak ada minimal jumlah donasi dan bantuan teman-teman sangat kami apresiasi. Teman-teman dapat menggunakan Bank atau *e-Wallet* apapun yang mendukung fitur QRIS dan tidak perlu melakukan konfirmasi.
 
 <br>
 
-#### Objektif
+#### **Objektif**
 
-Objektif dari misi ini adalah meminimalisir dampak dengan melakukan *first aid* dan rescue, serta mencegah dampak panleukopenia virus agar tidak menyebar ke wilayah utara (Faperta) dan barat kampus Universitas Padjadjaran Jatinangor. Berkat dukungan penuh dari satuan pengamanan K3L Unpad, kami telah memperoleh izin untuk menyimpan logistik seperti pet cargo dan peralatan medis lainnya, termasuk *panleu rapid test kit*, di pos satpam FaPsi dan FMIPA. Strategi ini diperlukan agar kucing yang memiliki gejala Panleukopenia mendapatkan bantuan medis lebih cepat. 
+Objektif dari misi ini adalah meminimalisir dampak dengan melakukan *first aid* dan rescue, serta mencegah dampak panleukopenia virus agar tidak menyebar ke wilayah utara (Faperta) dan barat kampus Universitas Padjadjaran Jatinangor. Berkat dukungan penuh dari satuan pengamanan K3L Unpad, kami telah memperoleh izin untuk menyimpan logistik seperti pet cargo dan peralatan medis lainnya, (termasuk *panleu rapid test kit* ﻿yang sedang dipesan seperti pada gambar di bawah ini) di pos satpam FaPsi dan FMIPA. Strategi ini diperlukan agar kucing yang memiliki gejala Panleukopenia mendapatkan bantuan medis lebih cepat. 
 
-<a href="https://imgcdn.dev/i/baP2q"><img src="https://s6.imgcdn.dev/baP2q.th.jpg" alt="baP2q.th.jpg" border="0"></a>
+<a href="https://imgcdn.dev/i/baP2q"><img src="https://s6.imgcdn.dev/baP2q.jpg" alt="Panleu test kit yang sedang dipesan" border="0"></a>
 
 <br>
 
