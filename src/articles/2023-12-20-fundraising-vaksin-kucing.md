@@ -10,9 +10,9 @@ Yuk, dukung penggalangan dana vaksinasi kucing Unpad untuk melawan kasus outbrea
 
 Virus *feline panleukopenia* adalah penyakit menular yang sangat berbahaya bagi kucing. Penyakit ini disebabkan oleh virus *parvovirus felin* (FPV) yang dapat menyerang sel darah merah, usus, dan sumsum tulang. Gejala-gejala penyakit ini antara lain demam, terdapat nasal discharge, muntah, diare, lemas, dan dehidrasi. Jika tidak segera ditangani, penyakit ini dapat menyebabkan kematian kucing dalam waktu singkat. Virus ini tidak menular ke manusia.
 
-Feline Panleukopenia telah terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Poni kemudian dibawa oleh salah satu dosen Fapsi, Ibu Airin Triwahyuni ke salah satu klinik di Bandung. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni, pada hari Kamis sebelumnya dalam keadaan baik-baik saja.
+Feline Panleukopenia telah terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni, pada hari Kamis sebelumnya dalam keadaan baik-baik saja.
 
-Kematian Poni akibat virus ini adalah kehilangan bagi teman-teman di Fakultas Psikologi dan Unpad Street Animal Friend karena sudah dirawat dari kecil dan merupakan sahabat bagi warga Fakultas Psikologi.
+Kematian Poni akibat virus ini adalah kehilangan memilukan bagi teman-teman di Fakultas Psikologi dan Unpad Street Animal Friend karena sudah dirawat dari kecil dan merupakan sahabat bagi warga Fakultas Psikologi.
 
 Seminggu kemudian pada 14 Desember volunteer asal Fapsi, kembali mendapati salah satu kucing bernama Abon mengalami gejala yang serupa: Lesu, *nasal discharge* disertai diare. Abon lalu dibawa volunteer ke klinik Afiyat dan diberi obat-obatan yang diperlukan. Kondisi Abon telah membaik dan dalam pengawasan lebih lanjut untuk recoverynya. Kucing lain, yaitu Kucu/Sosis, calico yang sering ditemui di wilayah Gedung Dekanat, dan Tortie yang sering berkeliaran di antara wilayah FaPsi dan FMIPA saat ini juga sedang dalam pengawasan. Sayangnya ada dua kitten yang menghilang dari tempat mereka biasa berada.
 
@@ -69,17 +69,21 @@ Penggalangan dana ditutup per 1 Januari 2024. Terima kasih banyak semuanya!
 **12 Februari**: Observasi KIPI Ateu (Fapsi), Coco (FMIPA) & Cemong (Kimia-Klintan).\
 **19 Februari:** Volunteer patrol di wilayah Soshum tidak menemukan kucing dengan gejala panleukopenia.
 
+Para pembaca juga dapat melihat update dan pengumuman publik ini di profil Instagram resmi kami di @unpadstreetfeeding.
+
 <br>
 
 **Laporan KIPI**
 
 Kejadian Ikutan Pasca Imunisasi (KIPI) adalah berbagai efek kesehatan, yang berpotensi terkait dengan pemberian imunisasi. Pemantauan dan pelaporan KIPI yang terjadi segera setelah atau beberapa hari setelah imunisasi, memiliki peran krusial mengingat seluruh kucing yang divaksin adalah kucing stray dengan kekuatan imun yang berbeda-beda. Field volunteer dengan bantuan K3L Universitas Padjadjaran melakukan pemantauan KIPI terhadap 6 kucing yang sebelumnya divaksinasi. Per 20 Februari, kami tidak mendapatkan laporan sakit dari keenam kucing tersebut. Vaksinasi dan pemantauan KIPI yang sukses mengakhiri program disease control Feline Panleukopenia yang dilakukan oleh Unpad Street Animal Friend sejak bulan Desember.
 
+Seluruh tim Unpad Street Animal Friend mengucapkan rasa syukur dan terima kasih yang terdalam atas dukungan dari Ibu Airin Triwahyuni (Dosen Fapsi Unpad), Ibu Witriani (Dosen Fapsi Unpad), jajaran Satuan Pengamanan Fakultas Psikologi, Fakultas Matematika dan Ilmu Pengetahuan Alam, Fakultas Keperawatan, dan Fakultas Pertanian. Tidak lupa kami ingin mengucapkan terima kasih kepada Ibu drh. Nabilah Ananda di klinik Jatinangor Vet (@jatinangor_vet) dan seluruh donatur.
+
 <br>
 
 **Penggunaan Sisa Dana**
 
-Sisa penggalangan dana program ini akan dialihkan untuk program TNR (Trap-Neuter-Return).
+Sisa penggalangan dana program ini akan dialihkan untuk program TNR (Trap-Neuter-Return) dan resupply Medic.
 
 <a href="https://imgcdn.dev/i/baTXB"><img src="https://s6.imgcdn.dev/baTXB.jpg" alt="baTXB.jpg" border="0"></a>
 
