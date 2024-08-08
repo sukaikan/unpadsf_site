@@ -12,9 +12,17 @@ Virus *feline panleukopenia* adalah penyakit menular yang sangat berbahaya bagi 
 
 Feline Panleukopenia telah terdeteksi di lingkungan kampus. Korban pertama adalah Poni, kucing betina bermotif putih-hitam yang ditemukan oleh salah satu volunteer kami dalam keadaan mata berair dan diare pada Senin 4 Desember. Sayang, Poni tidak dapat bertahan dan meninggal dua hari kemudian di klinik. Hal ini mengagetkan karena Poni, pada hari Kamis sebelumnya dalam keadaan baik-baik saja.
 
+<a href="https://imgcdn.dev/i/bZ9kH"><img src="https://s6.imgcdn.dev/bZ9kH.md.jpg" alt="bZ9kH.jpg" border="0" /></a>
+
 Kematian Poni akibat virus ini adalah kehilangan memilukan bagi teman-teman di Fakultas Psikologi dan Unpad Street Animal Friend karena sudah dirawat dari kecil dan merupakan sahabat bagi warga Fakultas Psikologi.
 
 Seminggu kemudian pada 14 Desember volunteer asal Fapsi, kembali mendapati salah satu kucing bernama Abon mengalami gejala yang serupa: Lesu, *nasal discharge* disertai diare. Abon lalu dibawa volunteer ke klinik Afiyat dan diberi obat-obatan yang diperlukan. Kondisi Abon telah membaik dan dalam pengawasan lebih lanjut untuk recoverynya. Kucing lain, yaitu Kucu/Sosis, calico yang sering ditemui di wilayah Gedung Dekanat, dan Tortie yang sering berkeliaran di antara wilayah FaPsi dan FMIPA saat ini juga sedang dalam pengawasan. Sayangnya ada dua kitten yang menghilang dari tempat mereka biasa berada.
+
+<a href="https://imgcdn.dev/i/bZW00"><img src="https://s6.imgcdn.dev/bZW00.md.png" alt="bZW00.md.png" border="0"></a>
+
+<br>
+
+<a href="https://imgcdn.dev/i/bZd3M"><img src="https://s6.imgcdn.dev/bZd3M.th.jpg" alt="bZd3M.th.jpg" border="0"></a> <a href="https://imgcdn.dev/i/bZLjd"><img src="https://s6.imgcdn.dev/bZLjd.th.jpg" alt="bZLjd.th.jpg" border="0"></a>
 
 Menurut penuturan salah seorang petugas Satpam Fakultas Psikologi, Poni dan teman-temannya tertular oleh salah satu kucing yang tidak biasa beliau lihat di lingkungan Fapsi. Kucing putih tersebut, kata beliau, sempat bertengkar dengan Poni dan Kucu/Sosis di wilayah gedung Dekanat. Dalam seminggu terakhir, beliau tidak lagi melihat keberadaan kucing tersebut. Pada awalnya, beliau mengira sakit kucing tersebut hanya flu biasa sehingga belum sempat melapor kepada *volunteer* kami di Fapsi.
 
@@ -34,7 +42,7 @@ Pembaca dapat membantu kami dengan melakukan donasi melalui scan QRIS di bawah. 
 
 Tujuan dari misi ini adalah meminimalisir dampak dengan melakukan *first aid* dan rescue, serta mencegah dampak panleukopenia virus agar tidak menyebar ke wilayah utara (Faperta) dan barat kampus Universitas Padjadjaran Jatinangor. Berkat dukungan penuh dari satuan pengamanan K3L Unpad, kami telah memperoleh izin untuk menyimpan logistik seperti pet cargo dan peralatan medis lainnya, (termasuk *panleu rapid test kit* ﻿yang sedang dipesan seperti pada gambar di bawah ini) di pos satpam FaPsi dan FMIPA. Strategi ini diperlukan agar kucing yang memiliki gejala Panleukopenia mendapatkan bantuan medis lebih cepat. 
 
-<a href="https://imgcdn.dev/i/baP2q"><img src="https://s6.imgcdn.dev/baP2q.jpg" alt="Panleu test kit yang sedang dipesan" border="0"></a>
+<a href="https://imgcdn.dev/i/baP2q"><img src="https://s6.imgcdn.dev/baP2q.md.jpg" alt="Panleu test kit yang sedang dipesan" border="0"></a>
 
 <br>
 
@@ -49,6 +57,9 @@ Penggalangan dana ditutup per 1 Januari 2024. Terima kasih banyak semuanya!
 <iframe width="699" height="314" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=E0E1F4B952AD0DE9%213303&authkey=%21AJ8ZaY1aOAm_G3Q&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE12&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 **Update**\
+**4 Desember**: Kasus pertama\
+**14 Desember**: Kasus ketiga\
+**15 Desember**: Planning & Surveillance\
 **22 Desember**: Pengumuman publik\
 **23 Desember**: Vaksinasi 2 kucing Fapsi, Abu (Plaza Fapsi) & Abon (Kantin Fapsi)\
 **24 Desember**: Volunteer medical patrol *\-felice*\
@@ -86,5 +97,9 @@ Seluruh tim Unpad Street Animal Friend mengucapkan rasa syukur dan terima kasih 
 Sisa penggalangan dana program ini akan dialihkan untuk program TNR (Trap-Neuter-Return) dan resupply Medic.
 
 <a href="https://imgcdn.dev/i/baTXB"><img src="https://s6.imgcdn.dev/baTXB.jpg" alt="baTXB.jpg" border="0"></a>
+
+<a href="https://imgcdn.dev/i/bZVFC"><img src="https://s6.imgcdn.dev/bZVFC.md.jpg" alt="bZVFC.jpg" border="0" /></a>
+
+<a href="https://imgcdn.dev/i/bZRvS"><img src="https://s6.imgcdn.dev/bZRvS.md.jpg" alt="bZRvS.jpg" border="0" /></a>
 
 <br>[](https://line.me/ti/p/lqlHHk6wKJ)
