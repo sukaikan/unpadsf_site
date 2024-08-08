@@ -49,6 +49,9 @@ Penggalangan dana ditutup per 1 Januari 2024. Terima kasih banyak semuanya!
 <iframe width="699" height="314" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=E0E1F4B952AD0DE9%213303&authkey=%21AJ8ZaY1aOAm_G3Q&em=2&wdAllowInteractivity=False&Item='Sheet1'!A1%3AE12&wdHideGridlines=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
 
 **Update**\
+**4 Desember**: Kasus pertama\
+**14 Desember**: Kasus ketiga\
+**15 Desember**: Planning & Surveillance\
 **22 Desember**: Pengumuman publik\
 **23 Desember**: Vaksinasi 2 kucing Fapsi, Abu (Plaza Fapsi) & Abon (Kantin Fapsi)\
 **24 Desember**: Volunteer medical patrol *\-felice*\
