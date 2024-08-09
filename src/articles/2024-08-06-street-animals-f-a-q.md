@@ -1,5 +1,5 @@
 ---
-title: Street Animals F.A.Q
+title: Street Animals FAQ
 description: We understand that you may have questions about our organization
   and our work. To help answer your inquiries, we’ve compiled this FAQ.
 date: 2022-12-11T18:24:00.000Z
